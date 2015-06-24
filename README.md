@@ -21,6 +21,6 @@ Currently have used 384 × 480.
 Should not be here but just for your reference.
 Trim using quicktime. To make it portrate version use iMovie. Make sure you use high quality export.
 
-Special thanks to Lauren Sieczkowski for theSOUNDS LIKE SUMMER with Erika Spring video which i used in the background.
+Special thanks to Lauren Sieczkowski for the SOUNDS LIKE SUMMER with Erika Spring video which i used in the background.
 ![Video](http://i.imgur.com/oCinvFO.png)
 [Video URL](https://vimeo.com/131502939)
