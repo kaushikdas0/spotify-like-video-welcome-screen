@@ -1,4 +1,4 @@
-# Spotify Like Video Welcome Screen
+# Spotify Like Video Welcome Screen - IOS - Swift
 Displays a video welcome screen like Spotify. This code can be reused by other apps to create the welcome screen.
 
 # Screencast
